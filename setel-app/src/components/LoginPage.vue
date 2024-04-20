@@ -3,7 +3,7 @@
     <v-row>
       <v-col cols="12">
         <v-app-bar color="red-darken-4" prominent flat>
-          <v-toolbar-title class="font-weight-bold text-left px-8">Setel Admin</v-toolbar-title>
+          <v-toolbar-title class="font-weight-bold text-left px-6">Setel Admin</v-toolbar-title>
           
           <v-spacer></v-spacer>
         </v-app-bar>
@@ -13,7 +13,7 @@
       <v-col cols="12" md="5">
         <h2>Selamat Datang di Setel Admin App</h2>
         <h3>Sistem Pengelolaan Setel</h3>
-        <v-img class="mt-8" src="../assets/sepeda.png" max-width="800"></v-img>
+        <v-img class="mt-8" src="../assets/sepeda.png" max-width="700"></v-img>
       </v-col>
 
       <v-col cols="12" md="4">
